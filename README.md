@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome! If you're looking to run TensorFlow GPU on WSL3 Ubuntu, you've come to the right place.
+Welcome! If you're looking to run TensorFlow GPU on Windows11 - WSL2 Ubuntu, you've come to the right place.
 
 ## WHL File Links
 
